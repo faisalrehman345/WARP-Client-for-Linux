@@ -12,13 +12,13 @@ You need to install warp-cli first from [AUR](https://aur.archlinux.org/) or [Ch
 
 yay -S [cloudflare-warp-bin](https://aur.archlinux.org/packages/cloudflare-warp-bin)
 
-Then download AppImage package and run.
+Then [download](https://github.com/faisalrehman345/WARP-Client-for-Linux/releases) AppImage package and run.
 
 ### Debian
 
 For Debian install WARP from [here](https://pkg.cloudflareclient.com/).
 
-Then download AppImage package for DEB package install and run.
+Then [download](https://github.com/faisalrehman345/WARP-Client-for-Linux/releases) AppImage package for DEB package install and run.
 
 ### Requirements
 
